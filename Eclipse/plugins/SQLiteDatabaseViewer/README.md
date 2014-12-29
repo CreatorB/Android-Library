@@ -13,6 +13,7 @@ How to View Android Database SQLite on ECLIPSE
 10. Switch to the 'Browse Data' sub tab.<br/>
 11. Select your table from the drop down menu.<br/>
 12. Browse your data here and onward into the digital sunset.<br/>
+![alt tag](http://tylerfrankenstein.com/sites/default/files/styles/large/public/questoid.png?itok=kEXwlJJ-)
 <br/>
 <b><i>Happy browse your db ;)</i></b><br/>
 <i>./creatorb</i>
