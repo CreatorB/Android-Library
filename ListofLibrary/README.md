@@ -5,7 +5,7 @@ You can fork it, for easy to remember.
 
 Collection if libraries starred during some years of Android Development. Here is the definitely list of android Open Source libraries
 
-``` * In titles means it has been categorized more than once (in different categories) ```
+``` * In titles means it has been categorized more than once (in different categories) ``` <br/>
 ``` * Forked From cesards ``` <br/>
 [LIBRARIES](#libraries)  
 ***
