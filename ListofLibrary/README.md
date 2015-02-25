@@ -545,7 +545,6 @@ http://square.github.io/otto/
 [One Bus Away](https://github.com/OneBusAway/onebusaway-android) | The official Android app for OneBusAway. 
 http://www.onebusaway.org/
 
-<br><br>
 ###Table of contents
 * [Framework](#Framework)
 * [EventBus](#EventBus)
