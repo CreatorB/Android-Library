@@ -1,4 +1,4 @@
 Android-Library
 ===============
 
-Just android lib repository make you easy to find library for your development
+This repository have been builded for help you to easily find library of Android Development.
