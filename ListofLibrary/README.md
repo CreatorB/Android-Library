@@ -5,6 +5,9 @@ You can fork it, for easy to remember.
 
 Collection if libraries starred during some years of Android Development. Here is the definitely list of android Open Source libraries<br/>
 
+## Index
+- [Libs of MobileAppCodes](http://mobileappcodes.com/blogsdetail/9)
+
 ## Trinea Lib-List
 ## 1. Personalized Views  
 Customed View. include ListView, ActionBar, Menu, ViewPager, Gallery, GridView, ImageView, ProgressBar, Dialog, Toast, EditText, TableView, Activity Animation and so on。  
