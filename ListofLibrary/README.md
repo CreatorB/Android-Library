@@ -7,6 +7,7 @@ Collection if libraries starred during some years of Android Development. Here i
 
 ## Index
 - [Libs of MobileAppCodes](http://mobileappcodes.com/blogsdetail/9)
+- [Libs of Snowdream](http://snowdream.github.io/awesome-android/)
 
 ## Trinea Lib-List
 ## 1. Personalized Views  
