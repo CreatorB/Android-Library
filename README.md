@@ -1,15 +1,11 @@
 Linked List of Useful Libraries
 ===============================
 
-You can fork it, for easy to remember.
+Just an a collection libraries starred during some years of Android Development. Here is the definitely list of android Open Source libraries<br/>
 
-Collection if libraries starred during some years of Android Development. Here is the definitely list of android Open Source libraries<br/>
+# List Menu(#list-menu)
+   - Coming Soon...!
 
-## Index
-- [Libs of MobileAppCodes](http://mobileappcodes.com/blogsdetail/9)
-- [Libs of Snowdream](http://snowdream.github.io/awesome-android/)
-
-## Trinea Lib-List
 ## 1. Personalized Views  
 Customed View. include ListView, ActionBar, Menu, ViewPager, Gallery, GridView, ImageView, ProgressBar, Dialog, Toast, EditText, TableView, Activity Animation and so on。  
 #### 1. ListView  
@@ -1487,13 +1483,13 @@ HomePage: http://www.inmite.eu/
 <br>
 <br>
 
-## <a name="libraries">Libraries
+## Libraries
 
-### <a name="ui">UI
+### UI
 
-#### <a name="widgetsui">Widgets
+#### Widgets
 
-###### <a name="textview">TextView
+###### TextView
 
 | Title | Description |
 | :----------: | :--------: |
@@ -1508,13 +1504,13 @@ HomePage: http://www.inmite.eu/
 [Blink TextView](https://github.com/frakbot/BlinkTextView) | Remember the '90s? Geocities? Blinking text? Dat. On Android
 [Secret TextView](https://github.com/matthewrkula/SecretTextView) | A TextView that simulates the effect from the app Secret where the characters fade in/out at different speeds
 
-###### <a name="button">Button
+###### Button
 
 | Title | Description |
 | :----------: | :--------: |
 [Android Process Button](https://github.com/dmytrodanylyk/android-process-buton) | Custom android button which can indicate progress
 
-###### <a name="edittext">EditText
+###### EditText
 
 | Title | Description |
 | :----------: | :--------: |
@@ -1524,7 +1520,7 @@ HomePage: http://www.inmite.eu/
 [Single Input Form](https://github.com/flavienlaurent/singleinputform) | A single EditText instead of a classical form
 
 
-###### <a name="imageview">ImageView
+###### ImageView
 
 | Title | Description |
 | :----------: | :--------: |
@@ -1537,7 +1533,7 @@ HomePage: http://www.inmite.eu/
 [Glide](https://github.com/bumptech/glide) | An image loading and caching library for Android focused on smooth scrolling
 [Circular ImageView](https://github.com/Pkmmte/CircularImageView) | Custom view for circular images in Android while maintaining the best draw performance
 
-###### <a name="progressbar">ProgressBar
+###### ProgressBar
 
 | Title | Description |
 | :----------: | :--------: |
@@ -1548,7 +1544,7 @@ HomePage: http://www.inmite.eu/
 [Number ProgressBar](https://github.com/daimajia/NumberProgressBar) | A more beautiful, slim, sexy Android progressbar
 [Android Process Button](https://github.com/dmytrodanylyk/android-process-buton) * | Custom android button which can indicate progress
 
-###### <a name="listview">ListView
+###### ListView
 
 | Title | Description |
 | :----------: | :--------: |
@@ -1562,7 +1558,7 @@ HomePage: http://www.inmite.eu/
 [Swipe ListView](https://github.com/47deg/android-swipelistview) | An Android List View implementation with support for drawable cells and many other swipe related features
 [Super ListView](https://github.com/dommerq/SuperListview) | Way more than just a listview
 
-###### <a name="viewpager">ViewPager
+###### ViewPager
 
 | Title | Description |
 | :----------: | :--------: |
@@ -1575,26 +1571,26 @@ HomePage: http://www.inmite.eu/
 [Wizard Pager](https://github.com/TechFreak/WizardPager) | Wizard Pager is a library that provides an example implementation of a Wizard UI on Android, it's based of Roman Nurik's wizard pager (https://code.google.com/p/romannurik-code/source/browse/misc/wizardpager)
 [ViewPager Transformations](https://github.com/ToxicBakery/ViewPagerTransforms) | Library containing common animations needed for transforming ViewPager scrolling for Android v13+
 
-###### <a name="seekbar">SeekBar
+###### SeekBar
 
 | Title | Description |
 | :----------: | :--------: |
 [Start Point SeekBar](https://github.com/vashisthg/StartPointSeekBar) | StartPointSeekBar is a custom view for the Android platform that makes it possible to have a SeekBar to have custom start point
 
-###### <a name="gridview">GridView
+###### GridView
 
 | Title | Description |
 | :----------: | :--------: |
 [Asymmetric GridView](https://github.com/felipecsl/AsymmetricGridView) | Crazy-ass Android GridView with asymmetric items
 [Sticky Grid Headers](https://github.com/TonicArtos/StickyGridHeaders) | An Android Library that makes it easy to make grid views with sectioned data and headers that stick to the top. http://tonicartos.github.io/StickyGridHeaders/
 
-###### <a name="scrollview">ScrollView
+###### ScrollView
 
 | Title | Description |
 | :----------: | :--------: |
 [Discroll View](https://github.com/flavienlaurent/discrollview) | Scroll + discover = DiscrollView
 
-###### <a name="actionbar">ActionBar
+###### ActionBar
 
 | Title | Description |
 | :----------: | :--------: |
@@ -1604,7 +1600,7 @@ HomePage: http://www.inmite.eu/
 [ActionBar PullToRefresh](https://github.com/chrisbanes/ActionBar-PullToRefresh) | A modern implementation of the pull-to-refresh interaction for #android
 [Refresh Action Item](https://github.com/ManuelPeinado/RefreshActionItem) | An action bar item which acts both as a refresh button and as a progress indicator
 
-###### <a name="slidingviews">Sliding Views
+###### Sliding Views
 
 | Title | Description |
 | :----------: | :--------: |
@@ -1614,7 +1610,7 @@ HomePage: http://www.inmite.eu/
 [Sliding Menu](https://github.com/jfeinstein10/SlidingMenu) | An Android library that allows you to easily create applications with slide-in menus
 [Side Navigation](https://github.com/johnkil/SideNavigation) | Implementation of "SIde Navigation" or "Fly-in app menu" pattern for Android (based on Google+ app). http://johnkil.github.com/SideNavigation
 
-###### <a name="otherwidgets">Other
+###### Other
 
 | Title | Description |
 | :----------: | :--------: |
@@ -1631,7 +1627,7 @@ HomePage: http://www.inmite.eu/
 [Image Layout](https://github.com/ManuelPeinado/ImageLayout) | Android - A layout that arranges its children in relation to a background image
 [Swipeable cards](https://github.com/kikoso/Swipeable-Cards) | A native library providing a Tinder-like cards effect. A card can be constructed using an image and displayed with animation effects, dismiss-to-like and dismiss-to-unlike, and use different sorting mechanisms
 
-#### <a name="dialogspickersui">Dialogs & Pickers
+#### Dialogs & Pickers
 
 | Title | Description |
 | :----------: | :--------: |
@@ -1641,7 +1637,7 @@ HomePage: http://www.inmite.eu/
 [Recurrence Picker](https://github.com/Shusshu/Android-RecurrencePicker) | Google Calendar Recurrence picker
 
 
-#### <a name="toastsui">Toasts
+#### Toasts
 
 | Title | Description |
 | :----------: | :--------: |
